@@ -1,0 +1,2 @@
+rootProject.name = "YTGameTutorial"
+include ':app'
